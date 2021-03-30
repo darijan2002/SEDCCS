@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cas03", "Cas03\Cas03.csproj", "{4655CFD8-19BA-445F-8EED-67C86398A92E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Casovi", "Casovi", "{63EA5510-1CDA-4BC9-A625-C1B07E841919}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domasni", "Domasni", "{2D34B9B6-7DED-4DBD-9D02-BD2FE7FED678}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,6 +22,9 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4655CFD8-19BA-445F-8EED-67C86398A92E} = {63EA5510-1CDA-4BC9-A625-C1B07E841919}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A7422033-8962-419E-8A73-E02B6A5D04EB}
