@@ -4,6 +4,8 @@
     {
         Other = -1,
         Sales,
-        Manager
+        Manager,
+        Contractor,
+        CEO
     }
 }

@@ -13,7 +13,7 @@ namespace EmployeeHomework
         public RolesEnum Role { get; set; }
         protected double Salary { get; set; }
 
-        private Employee()
+        protected Employee()
         {
 
         }

@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATM", "Domasni\Cas06\ATM\AT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeHomework", "Domasni\Cas07\EmployeeHomework\EmployeeHomework.csproj", "{41F1B4D8-90A7-4C7F-818E-B88436335341}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Runner", "Domasni\Cas07\Runner\Runner.csproj", "{BC87C042-F5D9-419E-8B64-315EABCD8BE8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -125,6 +127,10 @@ Global
 		{41F1B4D8-90A7-4C7F-818E-B88436335341}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{41F1B4D8-90A7-4C7F-818E-B88436335341}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{41F1B4D8-90A7-4C7F-818E-B88436335341}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC87C042-F5D9-419E-8B64-315EABCD8BE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC87C042-F5D9-419E-8B64-315EABCD8BE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC87C042-F5D9-419E-8B64-315EABCD8BE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC87C042-F5D9-419E-8B64-315EABCD8BE8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -154,6 +160,7 @@ Global
 		{16A94B69-59EB-4B60-8B9D-CEA0B8BB86B1} = {95D6EF0D-6BD7-4372-9B9B-5FBCF19388AA}
 		{3D489EE9-84B8-4542-826F-479AE39FA110} = {16A94B69-59EB-4B60-8B9D-CEA0B8BB86B1}
 		{41F1B4D8-90A7-4C7F-818E-B88436335341} = {1D555D6E-82B8-439C-A134-1DF3201FE554}
+		{BC87C042-F5D9-419E-8B64-315EABCD8BE8} = {1D555D6E-82B8-439C-A134-1DF3201FE554}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A7422033-8962-419E-8A73-E02B6A5D04EB}
