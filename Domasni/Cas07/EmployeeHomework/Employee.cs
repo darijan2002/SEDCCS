@@ -28,7 +28,7 @@ namespace EmployeeHomework
 
         public void PrintInfo()
         {
-            Console.WriteLine("{0} {1} with salary {2}", FirstName, LastName, Salary);
+            Console.WriteLine("{0} {1} with salary {2}", FirstName, LastName, GetSalary());
         }
 
         public virtual double GetSalary()

@@ -17,7 +17,10 @@ namespace Runner
             // stv ne znam kako bi bilo ova
             ceo.Employees = new Employee[]
             {
-                new Contractor("C1", "C1", 2000),
+                new Contractor("C1", "C1", 2000) {
+                    WorkHours = 8,
+                    PayPerHour = 500
+                },
                 new Contractor("C2", "C2", 2200),
                 new Func<Manager>(() => {
                     Manager man = new Manager("M1", "M1", 1300);
